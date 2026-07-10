@@ -1,8 +1,8 @@
 {
   "schema": "duroply.manifest.v1",
   "latest": "data/snapshot.json.gz",
-  "latestArchive": "data/history/2026-07-10T03-51-59Z.json.gz",
-  "generatedAt": "2026-07-10T03:51:59.848Z",
+  "latestArchive": "data/history/2026-07-10T03-53-43Z.json.gz",
+  "generatedAt": "2026-07-10T03:53:43.668Z",
   "generatedBy": "admin",
   "rowCounts": {
     "sales": 20367,
@@ -11,13 +11,13 @@
     "tod_master": 26,
     "customer_master": 1795
   },
-  "sizeBytes": 1936470,
-  "rawBytes": 43451009,
+  "sizeBytes": 1936439,
+  "rawBytes": 43450930,
   "compressed": true,
   "history": [
     {
-      "path": "data/history/2026-07-10T03-51-59Z.json.gz",
-      "generatedAt": "2026-07-10T03:51:59.848Z",
+      "path": "data/history/2026-07-10T03-53-43Z.json.gz",
+      "generatedAt": "2026-07-10T03:53:43.668Z",
       "generatedBy": "admin",
       "rowCounts": {
         "sales": 20367,
@@ -26,8 +26,8 @@
         "tod_master": 26,
         "customer_master": 1795
       },
-      "sizeBytes": 1936470,
-      "rawBytes": 43451009,
+      "sizeBytes": 1936439,
+      "rawBytes": 43450930,
       "compressed": true
     },
     {
